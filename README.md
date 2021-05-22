@@ -23,7 +23,7 @@ Hi there 👋 You've probably arrived at this page because we may work together 
 - I prefer meetings in the afternoon, and back-to-back rather than spread out in a day
 - I am generally online 10AM-6PM M-F, Pacific time. I try not to work odd hours often.
 - My Slack is almost always on DND so I can focus, but if something is urgent, please feel free to override DND to get my attention!
-- I like meeting peers outside of my immediate team. Please feel free to drop a 1:1 on my calendar anytime :) I like learning about what you're working on, where we might intersect, and how I can help. I am also always down to talk shop about powerlifting, food, and travel.
+- I like meeting peers outside of my immediate team. Please feel free to drop a 1:1 on my calendar anytime :) I like learning about what you're working on, where we might intersect, and how I can help. I am always down to talk shop about powerlifting, food, and travel.
 - If you are a manager, please gives me a heads-up about what you'd like to discuss so I'm not nervous.
 
 ### Feedback
