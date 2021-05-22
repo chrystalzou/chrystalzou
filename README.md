@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there 👋 You've probably arrived at this page because we may work together at some point! This is a brief readme mostly for coworkers on how to make the most of our collaboration ✨ 
 
-<!--
-**chrystalzou/chrystalzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏻‍💻 Currently
+- Credit Builder at Chime
 
-Here are some ideas to get you started:
+### 🌎 Previously
+- Data Stream Processor at Splunk
+- Growth & Analytics in China at Booking.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Misc
+- I feel irrationally anxious when DMed with "hello, how are you?" without a followup. nohello.com is a great read.
+
+### 📈 Motivations
+- Understanding how my work translates into business or customer impact
+- Agency and ownership in decision-making
+- Helping others succeed through advocacy, feedback, and collaboration
+- Learning opportunities (new technologies, perspectives, domains)
+
+### 📉 Demotivations
+- Overengineered processes to get things done
+- Lack of empathy or psychological safety
+- Being evaluated on vanity metrics e.g. hours worked, tickets completed
+
+### Availability / Communication
+- I prefer meetings in the afternoon, and back-to-back rather than spread out in a day
+- I am generally online 10-6 M-F, Pacific time.
+- I like meeting peers outside of my immediate team. Please feel free to drop a 1:1 on my calendar anytime :) I like learning about what you're working on, where we might intersect, and how I can help. I am also always down to talk shop about powerlifting, food, and travel.
+- If you are a manager, please gives me a heads-up about what you'd like to discuss so I'm not nervous.
+
+### Feedback
+- Positive feedback: Slack and letting me manager know I did a good things are both great!
+- Constructive: In-person is best. Zoom is next-best. Slack is better than nothing at all. It's really helpful if specific examples can be included, so I know what to improve on. Thank you for giving me feedback, no matter how minor - I genuinely want to be better :)
