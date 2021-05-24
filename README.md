@@ -27,5 +27,5 @@ Hi there 👋 You've probably arrived at this page because we may work together 
 - If you are a manager, please gives me a heads-up about what you'd like to discuss so I'm not nervous.
 
 ### 💚 Feedback
-- Positive feedback: Slack and letting me manager know I did a good thing are both great!
+- Positive feedback: Slack and letting my manager know I did a good thing are both great!
 - Constructive: In-person is best. Zoom is next-best. Slack is better than nothing at all. It's really helpful if specific examples can be included, so I know what to improve on. Thank you for giving me feedback, no matter how minor - it's not always the easiest thing to communicate and I promise to assume positive intent :)
